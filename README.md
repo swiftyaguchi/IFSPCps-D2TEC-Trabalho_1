@@ -1,5 +1,6 @@
 # IFSPCps-D2TEC-Trabalho_1
 D2TEC: Tecnologia de Big Data 2022 (IFSP, Campinas)
+
 Profa. Bianca Pedrosa
 email: bpedrosa@ifsp.edu.br
 
